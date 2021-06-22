@@ -17,6 +17,8 @@ Secondly you Will need a couple of neccessary dependencies
 
 First if you are on Windows 10 You need WSL2 and a Debian or Ubuntu Distro. You can look that up as this tutorial is for installing Readarr and not WSL. But everything in here should apply to both.
 
+# How to Build Readarr with WSL2 or Ubunut/Debain Distro
+
 # Setting up Dependencies:
 
 **IMPORTANT:**
